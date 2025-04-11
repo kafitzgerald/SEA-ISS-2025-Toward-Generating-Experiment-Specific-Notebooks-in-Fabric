@@ -6,5 +6,6 @@ parts:
     chapters:
       - file: notebooks/introduction.ipynb
       - file: notebooks/motivation.ipynb
+      - file: notebooks/existing_tools.ipynb
       - file: noteooks/bibliography.ipynb
       - file: references.bib
