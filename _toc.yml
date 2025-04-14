@@ -9,5 +9,6 @@ parts:
       - file: notebooks/existing_tools.ipynb
       - file: notebooks/tool.ipynb
       - file: notebooks/prototype.ipynb
+      - file: notebooks/results.ipynb
       - file: notebooks/bibliography.ipynb
       - file: references.bib
