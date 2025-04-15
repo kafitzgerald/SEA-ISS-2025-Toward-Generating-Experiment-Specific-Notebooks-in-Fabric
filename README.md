@@ -15,6 +15,6 @@ To address this gap, we have implemented an AI-based tool that leverages the pow
 
 **Keywords:** Retrieval-Augmented Generation, Jupyter Notebooks, Python Code Generation, NL2Code, Large Language Models, Low-Cost models
 
-**Acknowledgements**: [List any Acknowledgements]
+**Acknowledgements**: Special thanks to Komal Thareja for helping us with the test result evaluation and Vikram Gazula for setting up the server and providing the hardware details. This research was supported by the National Science Foundation Awards 1935966 and 2330891 and 2029235.
 
 ---
