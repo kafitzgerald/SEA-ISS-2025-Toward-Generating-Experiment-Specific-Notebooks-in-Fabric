@@ -137,3 +137,7 @@ dmypy.json
 
 # VS code
 *.code-workspace
+
+# Mac
+**.DS_Store**
+
