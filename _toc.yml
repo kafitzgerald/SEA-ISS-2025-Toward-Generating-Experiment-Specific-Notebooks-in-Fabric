@@ -10,5 +10,8 @@ parts:
       - file: notebooks/tool.ipynb
       - file: notebooks/prototype.ipynb
       - file: notebooks/results.ipynb
+      - file: notebooks/discussion.ipynb
+      - file: notebooks/further_work.ipynb
+      - file: notebooks/conclusion.ipynb
       - file: notebooks/bibliography.ipynb
       - file: references.bib
