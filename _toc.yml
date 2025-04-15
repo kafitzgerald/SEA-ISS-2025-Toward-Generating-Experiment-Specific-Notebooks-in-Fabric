@@ -13,5 +13,6 @@ parts:
       - file: notebooks/discussion.ipynb
       - file: notebooks/further_work.ipynb
       - file: notebooks/conclusion.ipynb
+      - file: notebooks/acknowledgement.ipynb
       - file: notebooks/bibliography.ipynb
       - file: references.bib
